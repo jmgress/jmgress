@@ -20,6 +20,12 @@ AI and Technology Leader with 30+ years of experience across AI, Software Engine
 - Using AI for Career Growth - University of South Florida (USF)
 - Addressing the Hype: AI in Practice - USF "Academia Meets Practice" Conference
 
+## Community Leadership
+I currently organize and lead the following technical communities:
+- [Tampa Bay Generative AI Meetup](https://www.meetup.com/tampa-bay-generative-ai-meetup/)
+- [Tampa Bay DevOps Meetup](https://www.meetup.com/tampa-devops-meetup)
+- [Tampa Bay Platform Engineering Meetup](https://www.meetup.com/tampabayplatformengineering/)
+- [DevOpsDays Tampa Bay](https://devopsdays.org/events/2024-tampa/welcome/)
 
 ## Contact
 - LinkedIn: [James Gress](https://www.linkedin.com/in/jamesgress/)
