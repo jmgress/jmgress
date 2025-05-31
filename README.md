@@ -1,9 +1,9 @@
 # James Gress
 
 ## About Me
-AI and Technology Leader with 30+ years of experience across AI, Software Engineering, Automation, DevOps, Platform Engineering and IT Delivery. Currently leading the AI Capability for Accenture North America Technology Center, with a focus on AI, GenAI, MLOps, AI-driven automation, and Enterprise AI readiness.
+AI and Technology Leader with 30+ years of experience across AI, Software Engineering, Automation, DevOps, Platform Engineering and IT Delivery. Currently leading the AI Capability for Accenture North America Technology Centers, with a focus on AI, GenAI, MLOps, AI-driven automation, and Enterprise AI readiness.
 
-## Professional Experience
+## Professional Experience - Accenture (2000-Current)
 - AI Capability Lead, North America Technology Center
 - Expertise in evolving AI, DevOps, DevSecOps, and Developer Experience practices
 - Leader of AI initiatives for multiple clients - enhancing business functionality through AI-powered applications and accelerating SDLC using generative AI
