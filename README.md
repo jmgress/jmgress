@@ -16,6 +16,7 @@ AI and Technology Leader with 30+ years of experience across AI, Software Engine
 
 ## Presentations
 - [The Future of Software Engineering](https://jmgress.github.io/futureofswe/) - CIVO Austin, Tampa Dev's, Accenture
+- [Work Redefined: Managing AI](https://jmgress.github.io/aigeneral/) - Tampa Chamber
 - Delivering Enterprise AI at Scale - Multiple Conferences
 - Using AI for Career Growth - University of South Florida (USF)
 - Addressing the Hype: AI in Practice - USF "Academia Meets Practice" Conference
